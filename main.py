@@ -1,1 +1,2 @@
-print("Hello world")
+print("Введите 2 числа:")
+a, b = int(input()), int(input())
